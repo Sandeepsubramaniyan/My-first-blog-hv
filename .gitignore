@@ -11,23 +11,22 @@ venv/
 # Database
 db.sqlite3
 
-Static folder at project root 
+# Static folder at project root
 /static/
 
-# macos
+# macOS
 ._*
 .DS_Store
 .fseventsd
-.spotlight-V100
+.Spotlight-V100
 
-#  Windows
+# Windows
 Thumbs.db*
 ehthumbs*.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 
-# Visual studio
+# Visual Studio
 .vscode/
 .history/
 *.code-workspace
-
